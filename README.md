@@ -9,32 +9,32 @@ Jargon grew out of frustration with poorly written rules and instructions, which
 The best way to learn how to Jargon is to simply read the below rules, and then write some for yourself.
 
 ## Jargon Rules
-The examples below offer a basic insight into Jargon by outlining [eight|8] frame rules; yes, that is a Jargon **frame** in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
+The examples below offer a basic insight into Jargon by outlining `[eight|8]` frame rules; yes, that is a Jargon **frame** in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
 
 ### 1. Rule frame [morpheme] 
 
-There are [morpheme] that Jargon recognizes as beneficial to always frame. Of course the author can add more or less to ensure their work is comprehensible. This rule states that the morpheme's [and], [but], [if], [no], [not], [or], [will] are all identified by Jargon as key morphemes that should be framed, [or not].   
+There are `[morpheme]` that Jargon recognizes as beneficial to always frame. Of course the author can add more or less to ensure their work is comprehensible. This rule states that the morpheme's `[and], [but], [if], [no], [not], [or], [will]` are all identified by Jargon as key morphemes that should be framed, `[or not]`.   
 
 ### 2. Rule frame [morpheme:define] 
-Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a few [words:not greater than four] to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.
+Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a few `[words:not greater than four]` to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.
 
 ### 3. Rule frames [#morpheme] -> [morpheme|#morpheme]
-Jargon is [not] intended to [#create] fluffy bloated [#sentences]. This rule allows the [#author] to hash-tag words for use latter in the same [writing|#sentences] to make [their|#author] statements more clear [and] [show|#create] relationships within the sentence [or] paragraph.  
+Jargon is [not] intended to `[#create]` fluffy bloated `[#sentences]`. This rule allows the `[#author]` to hash-tag words for use latter in the same `[writing|#sentences]` to make `[their|#author]` statements more clear [and] `[show|#create]` relationships within the sentence [or] paragraph.  
 
 ### 4. Rule frame [morpheme|#morpheme]
-Tagging a morpheme with a hash in rule three is much like [#setting] a variable. As the reader moves along a sentence they [will] find the hash tagged morpheme again, and realize that the author is [linking|#setting] a relationship. 
+Tagging a morpheme with a hash in rule three is much like `[#setting]` a variable. As the reader moves along a sentence they [will] find the hash tagged morpheme again, and realize that the author is `[linking|#setting]` a relationship. 
 
 ### 5. Rule frame [morpheme|related]
-This Jargon rule frame is [similar|related] to rule [two|2] with emphasis on related. There are  [6|six] Jargon frames within this rule that fully [displays|shows] this rule frame in action. The reader [will] [notice|see] the relationships to fully [understand|realize] the authors intent.
+This Jargon rule frame is `[similar|related]` to rule `[two|2]` with emphasis on related. There are  `[6|six]` Jargon frames within this rule that fully `[displays|shows]` this rule frame in action. The reader [will] `[notice|see]` the relationships to fully `[understand|realize]` the authors intent.
 
 ### 6. Rule frame [morpheme(synonym)]
-This rule frame [necessitates(requires)] the morpheme contains its synonym. Doing so allows the [author(writer)] to [hone(sharpen)] their words to ensure meaning is clearly understood. Do [not]  [error(mistake)] this rule with rule frame [5|five], which they are [not] related. 
+This rule frame `[necessitates(requires)]` the morpheme contains its synonym. Doing so allows the `[author(writer)]` to `[hone(sharpen)]` their words to ensure meaning is clearly understood. Do [not]  `[error(mistake)]` this rule with rule frame [5|five], which they are [not] related. 
 
 ### 7. Rule frame [morpheme|related(synonym)]
-This rule frame [combines|adds(appends)] rule frames five [and] six. There is nothing better to [say|talk(verbalize)] about it. 
+This rule frame `[combines|adds(appends)]` rule frames five [and] six. There is nothing better to `[say|talk(verbalize)]` about it. 
 
 ### 8. Rule frame [morpheme|~unrelated]
-This rule frame is the opposite of rule frame five. The [author|~reader] chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon [rules|~recommendation].
+This rule frame is the opposite of rule frame five. The `[author|~reader]` chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendation]`.
 
 ### Using Jargon
 As stated in the introduction, Jargon grew out of frustration with poorly written rules [and] instructions. Therefore, it stands to reason that Jargon would satisfy rule [and] requirement statements. 

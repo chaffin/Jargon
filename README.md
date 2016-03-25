@@ -1,5 +1,5 @@
-# [Jargon|järˈgən](http://myword.io/users/LarryChaffin/essays/001.html)
-A technical framework that enables authors to write more concise sentences and phrases for their works. Jargon statements read like nonsensical jumble of words; however, when applied to an author’s written statement, clarifies the author’s intent and makes it more comprehensible.
+# Jargon|järˈgən 
+A technical framework that enables authors to write more concise sentences and phrases for their works. [Jargon](http://myword.io/users/LarryChaffin/essays/001.html) statements read like nonsensical jumble of words; however, when applied to an author’s written statement, clarifies the author’s intent and makes it more comprehensible.
 
 ## Introduction
 Jargon is a plain text format that is easy-to-write and easy-to-read. The design goal for Jargon's formatting syntax, is to make it as readable as possible with very few special characters. The idea is that a Jargon formatted sentence and/or paragraph should accompany the real-text it represents, or should be linked as a reference.

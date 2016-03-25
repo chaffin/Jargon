@@ -1,4 +1,4 @@
-# Jargon|järˈgən
+# [Jargon|järˈgən](http://myword.io/users/LarryChaffin/essays/001.html)
 A technical framework that enables authors to write more concise sentences and phrases for their works. Jargon statements read like nonsensical jumble of words; however, when applied to an author’s written statement, clarifies the author’s intent and makes it more comprehensible.
 
 ## Introduction
@@ -9,7 +9,7 @@ Jargon grew out of frustration with poorly written rules and instructions, which
 The best way to learn how to Jargon is to simply read the below rules, and then write some for yourself.
 
 ## Jargon Rules
-The examples below offer a basic insight into Jargon by outlining [eight|8] frame rules; yes, that is a Jargon frame in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
+The examples below offer a basic insight into Jargon by outlining [eight|8] frame rules; yes, that is a Jargon **frame** in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
 
 ### 1. Rule frame [morpheme] 
 

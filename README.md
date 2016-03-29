@@ -9,7 +9,7 @@ Jargon grew out of frustration with poorly written rules and instructions, which
 The best way to learn how to Jargon is to simply read the below rules, and then write some for yourself.
 
 ## Jargon Rules
-The examples below offer a basic insight into Jargon by outlining `[eight|8]` frame rules; yes, that is a Jargon **frame** in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
+The examples below offer a basic insight into Jargon by outlining `[nine|9]` frame rules; yes, that is a Jargon **frame** in action. Jargon is framed by brackets and held together by a few simple rules. Jargon is not dependent on CAPS or ~~Markup~~. Jargon does not place *emphasis* in italics or **bold** text. Jargon is all about [itself:see paragraph heading]. 
 
 ### 1. Rule frame [morpheme] 
 
@@ -35,6 +35,11 @@ This rule frame `[combines|adds(appends)]` rule frames five [and] six. There is 
 
 ### 8. Rule frame [morpheme|~unrelated]
 This rule frame is the opposite of rule frame five. The `[author|~reader]` chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendation]`.
+
+### 9. Rule frame [morpheme|*example]
+There are some morphemes that require examples to make a point. This frame rule relies on a `[short|*fewer than four words]` example to frame a morpheme more clearly. Unlike rule frame two, this rule frame is not defined but rather an example, which is similar to the grammar rule that utilizes "Latin e.g." when one is not intending to list everything. A better example of this rule would be the following:
+
+> System administrators conduct privileged `[functions|*add users*install software]` for the system.   
 
 ### Using Jargon
 As stated in the introduction, Jargon grew out of frustration with poorly written rules [and] instructions. Therefore, it stands to reason that Jargon would satisfy rule [and] requirement statements. 

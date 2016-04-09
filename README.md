@@ -18,7 +18,7 @@ There are `[morpheme]` that Jargon recognizes as beneficial to always frame. The
 ### 2. Rule frame [morpheme:define] 
 Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a few `[words:not greater than four]` to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.
 
-### 3. Rule frames [#morpheme] -> [morpheme|#morpheme]
+### 3. Rule frames [#morpheme]
 Jargon is [not] intended to `[#create]` fluffy bloated `[#sentences]`. This rule allows the `[#author]` to hash-tag words for use latter in the same `[writing|#sentences]` to make `[their|#author]` statements more clear [and] `[show|#create]` relationships within the sentence [or] paragraph.  
 
 ### 4. Rule frame [morpheme|#morpheme]
@@ -34,10 +34,10 @@ This rule frame `[necessitates(requires)]` the morpheme contains its synonym. Do
 This rule frame `[combines|adds(appends)]` rule frames five [and] six. There is nothing better to `[say|talk(verbalize)]` about it. 
 
 ### 8. Rule frame [morpheme|~unrelated]
-This rule frame is the opposite of rule frame five. The `[author|~reader]` chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendation]`.
+This rule frame is the opposite of rule frame five. The `[author|~reader]` chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendations]`.
 
 ### 9. Rule frame [morpheme|*example]
-There are some morphemes that require examples to make a point. This frame rule relies on a `[short|*fewer than four words]` example to frame a morpheme more clearly. Unlike rule frame two, this rule frame is not defined but rather an example, which is similar to the grammar rule that utilizes "Latin e.g." when one is not intending to list everything. A better example of this rule would be the following:
+There are some morphemes that require examples to make a point. This frame rule relies on `[short|*small,*quickly stated,*pointed]` examples to frame a morpheme more clearly. Unlike rule frame two, this rule frame is not defined but rather an example, which is similar to the grammar rule that utilizes "Latin e.g." when one is not intending to list everything. A better example of this rule would be the following:
 
 > System administrators conduct privileged `[functions|*add users*install software]` for the system.   
 

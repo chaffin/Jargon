@@ -18,7 +18,7 @@ There are `[morpheme]` that Jargon recognizes as beneficial to always frame. The
 ### 2. Rule frame [morpheme:define] 
 Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a few `[words:not greater than four]` to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.
 
-### 3. Rule frames [#morpheme]
+### 3. Rule frame [#morpheme]
 Jargon is [not] intended to `[#create]` fluffy bloated `[#sentences]`. This rule allows the `[#author]` to hash-tag words for use latter in the same `[writing|#sentences]` to make `[their|#author]` statements more clear [and] `[show|#create]` relationships within the sentence [or] paragraph.  
 
 ### 4. Rule frame [morpheme|#morpheme]

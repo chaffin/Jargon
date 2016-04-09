@@ -13,7 +13,7 @@ The examples below offer a basic insight into Jargon by outlining `[nine|9]` fra
 
 ### 1. Rule frame [morpheme] 
 
-There are `[morpheme]` that Jargon recognizes as beneficial to always frame. Of course the author can add more or less to ensure their work is comprehensible. This rule states that the morpheme's `[and], [but], [if], [no], [not], [or], [will]` are all identified by Jargon as key morphemes that should be framed, `[or not]`.   
+There are `[morpheme]` that Jargon recognizes as beneficial to always frame. The author has the option to add more or less to ensure their work is comprehensible. This rule states that the morpheme's `[and], [but], [if], [no], [not], [or], [will]` are all identified by Jargon as key morphemes that should be framed, `[or not]`.   
 
 ### 2. Rule frame [morpheme:define] 
 Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a few `[words:not greater than four]` to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.

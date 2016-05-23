@@ -16,7 +16,7 @@ The examples below offer a basic insight into Jargon by outlining `[nine|9]` fra
 There are `[morpheme]` that Jargon recognizes as beneficial to always frame. The author has the option to add more or less to ensure their work is comprehensible. This rule states that the morpheme's `[and], [but], [if], [no], [not], [or], [will]` are all identified by Jargon as key morphemes that should be framed, `[or not]`.   
 
 ### 2. Rule frame [morpheme:define] 
-Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a `[few:not greater than four]` words to ensure the meaning. Yes, that is Jargon defining the maximum number of words to use when applying this rule.
+Sometimes a word means something to one person, and something different to another. This frame rule allows the author to add a `[few:not greater than four]` words to ensure the meaning. Yes, that is Jargon defining **few** as meaning the maximum number of words to use when applying this rule.
 
 ### 3. Rule frame [#morpheme]
 Jargon is [not] intended to `[#create]` fluffy bloated `[#sentences]`. This rule allows the `[#author]` to hash-tag words for use latter in the same `[writing|#sentences]` to make `[their|#author]` statements more clear and `[show|#create]` relationships within the sentence or paragraph.  
@@ -34,12 +34,12 @@ This rule frame `[necessitates(requires)]` the morpheme contains its synonym. Do
 This rule frame `[combines|adds(appends)]` rule frames five [and] six. There is nothing better to `[say|talk(verbalize)]` about it. 
 
 ### 8. Rule frame [morpheme|~unrelated]
-This rule frame is the opposite of rule frame five. The `[author|~reader]` chooses the morpheme to negate, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendations]`.
+This rule frame is `[opposite|~similar]` to rule frame five. The `[author|~reader]` chooses the morpheme to `[negate|~add]`, rather than frame. This rule allows the author to completely rule-out any stray thoughts the reader may form while understanding the work. Remember, Jargon `[rules|~recommendations]`.
 
 ### 9. Rule frame [morpheme|*example]
-There are some morphemes that require examples to make a point. This frame rule relies on `[short|*small,*quickly stated,*pointed]` examples to frame a morpheme more clearly. Unlike rule frame two, this rule frame is not defined but rather an example, which is similar to the grammar rule that utilizes "Latin e.g." when one is not intending to list everything. For example:
+There are some morphemes that require examples in order to clarify meaning. This rule frame relies on `[short|*small;*quickly stated;*pointed]` examples to frame a morpheme more clearly. Unlike rule frame two, this rule frame is not defined but rather an example, which is similar to the grammar rule that utilizes Latin (e.g. for example; for the sake of example; such as). For example:
 
-> System administrators conduct privileged `[functions|*add users*install software]` for the system.   
+> System administrators conduct privileged `[functions|*add users;*install software]` for the system.   
 
 ### Using Jargon
 As stated in the introduction, Jargon grew out of frustration with poorly written rules [and] instructions. Therefore, it stands to reason that Jargon would satisfy rule [and] requirement statements. 
